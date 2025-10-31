@@ -84,7 +84,7 @@ sistema-nomina-python/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/sistema-nomina-python.git
+git clone https://github.com/mparedess-web/sistema-nomina-python
 cd sistema-nomina-python
 ```
 
